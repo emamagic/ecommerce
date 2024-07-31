@@ -24,7 +24,7 @@ This is a microservices-based e-commerce application built using Java Spring and
 
 The application follows the microservices architecture pattern with each service encapsulating a specific business domain. The services communicate with each other using REST APIs and messaging.
 
-![Architecture Diagram](source/ecommerce.png) 
+![Architecture Diagram](e-commerce-app/source/ecommerce.png) 
 
 ## Services
 
@@ -67,7 +67,6 @@ The application follows the microservices architecture pattern with each service
 - **Spring Data JPA**: For database interactions.
 - **Mongo/PostgreSQL**: For production database.
 - **Docker**: For containerizing the services.
-- **Swagger**: For API documentation.
 
 ## Service Discovery and Configuration
 
