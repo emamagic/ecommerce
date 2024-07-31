@@ -24,7 +24,7 @@ This is a microservices-based e-commerce application built using Java Spring and
 
 The application follows the microservices architecture pattern with each service encapsulating a specific business domain. The services communicate with each other using REST APIs and messaging.
 
-![Architecture Diagram](e-commerce-app/source/ecommerce.png) 
+<img src="/sources/ecommerce.png" width="600">
 
 ## Services
 
